@@ -1,0 +1,26 @@
+.sign-form{
+    box-shadow: 0 1px 8px rgba(0, 0, 0, 0.25);
+    border-radius: 12px;
+    padding: 10px;
+    box-sizing: border-box;
+}
+.sign-form h1{
+    margin: 0;
+    font-weight: normal;
+    text-align: center;
+}
+
+.sign-form input,
+.sign-form button{
+    display: block;
+    width: 100%;
+    height: 35px;
+    box-sizing: border-box;
+    margin-bottom: 10px;  
+    border: 1px solid lightgreen;
+}
+
+.sign-form button{
+    border: none;
+    background-color: rgb(125, 212, 125);
+}
